@@ -16,10 +16,12 @@ using PlutoUI, Plots,LaTeXStrings,Measures
 
 # ╔═╡ c6ef9e08-edf8-42ce-8015-0d126a2379a3
 md"""
-!!! danger ""
-    Este notebook es parte de una colección de apuntes para los cursos **IEE2103 Señales y Sistemas**, **IEE3702 Procesamiento Avanzado de Señales** y **IEE3732 Procesamiento Digital de Señales**, [Departamento de Ingeniería Eléctrica](https://www.ing.uc.cl/electrica/), [Pontificia Universidad Católica de Chile](https://www.uc.cl). 
+!!! note ""
+    Este notebook es parte de una colección de apuntes para los cursos **IEE2103 Señales y Sistemas**,
+    **IEE3702 Procesamiento Avanzado de Señales** y **IEE3732 Procesamiento Digital de Señales**, [Departamento de Ingeniería Eléctrica](https://www.ing.uc.cl/electrica/), [Pontificia Universidad Católica de Chile](https://www.uc.cl). 
 
 	**Profesor: Rodrigo F. Cádiz** - Consultas y comentarios: [rcadiz@ing.puc.cl](mailto://rcadiz@ing.puc.cl)
+**Profesor: Pablo Irarrázaval** - Consultas y comentarios: [pim@uc.cl](mailto://pim@uc.cl)
 """
 
 # ╔═╡ 942ff160-10d7-492c-8ac8-b76b8fa5f541
